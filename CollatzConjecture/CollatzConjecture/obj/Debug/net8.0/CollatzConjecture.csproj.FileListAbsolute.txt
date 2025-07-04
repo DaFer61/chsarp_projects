@@ -1,0 +1,14 @@
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\bin\Debug\net8.0\CollatzConjecture.exe
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\bin\Debug\net8.0\CollatzConjecture.deps.json
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\bin\Debug\net8.0\CollatzConjecture.runtimeconfig.json
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\bin\Debug\net8.0\CollatzConjecture.dll
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\bin\Debug\net8.0\CollatzConjecture.pdb
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.AssemblyInfoInputs.cache
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.AssemblyInfo.cs
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.csproj.CoreCompileInputs.cache
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.dll
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\obj\Debug\net8.0\refint\CollatzConjecture.dll
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.pdb
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\obj\Debug\net8.0\CollatzConjecture.genruntimeconfig.cache
+C:\Users\dav\Documents\Visual Studio 2022\projects\CollatzConjecture\CollatzConjecture\obj\Debug\net8.0\ref\CollatzConjecture.dll
