@@ -1,0 +1,17 @@
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\blackjack.Form1.resources
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\blackjack.Properties.Resources.resources
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\blackjack.csproj.GenerateResource.cache
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\blackjack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\blackjack.AssemblyInfoInputs.cache
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\blackjack.AssemblyInfo.cs
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\blackjack.csproj.CoreCompileInputs.cache
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\bin\Debug\net8.0-windows\blackjack.exe
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\bin\Debug\net8.0-windows\blackjack.deps.json
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\bin\Debug\net8.0-windows\blackjack.runtimeconfig.json
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\bin\Debug\net8.0-windows\blackjack.dll
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\bin\Debug\net8.0-windows\blackjack.pdb
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\blackjack.dll
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\refint\blackjack.dll
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\blackjack.pdb
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\blackjack.genruntimeconfig.cache
+C:\Users\dav\Documents\Visual Studio 2022\projects\blackjack\blackjack\obj\Debug\net8.0-windows\ref\blackjack.dll
