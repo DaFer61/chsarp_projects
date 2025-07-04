@@ -1,0 +1,14 @@
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\bin\Debug\net8.0\n_faktorialis.exe
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\bin\Debug\net8.0\n_faktorialis.deps.json
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\bin\Debug\net8.0\n_faktorialis.runtimeconfig.json
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\bin\Debug\net8.0\n_faktorialis.dll
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\bin\Debug\net8.0\n_faktorialis.pdb
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\obj\Debug\net8.0\n_faktorialis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\obj\Debug\net8.0\n_faktorialis.AssemblyInfoInputs.cache
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\obj\Debug\net8.0\n_faktorialis.AssemblyInfo.cs
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\obj\Debug\net8.0\n_faktorialis.csproj.CoreCompileInputs.cache
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\obj\Debug\net8.0\n_faktorialis.dll
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\obj\Debug\net8.0\refint\n_faktorialis.dll
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\obj\Debug\net8.0\n_faktorialis.pdb
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\obj\Debug\net8.0\n_faktorialis.genruntimeconfig.cache
+C:\Users\dav\Documents\Visual Studio 2022\projects\n_faktorialis\n_faktorialis\obj\Debug\net8.0\ref\n_faktorialis.dll
